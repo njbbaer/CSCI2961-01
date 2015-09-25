@@ -1,8 +1,8 @@
-* ![](Images/Capture2.png?raw=true)
+* ![](https://raw.githubusercontent.com/njbbaer/OpenSourceClass/master/Images/Capture2.PNG)
 
-* ![](Images/Capture3.png?raw=true)
+* ![](https://raw.githubusercontent.com/njbbaer/OpenSourceClass/master/Images/Capture3.PNG)
 
-* ![](Images/Capture1.png?raw=true)
+* ![](https://raw.githubusercontent.com/njbbaer/OpenSourceClass/master/Images/Capture1.PNG)
 
 * https://github.com/njbbaer/Exercise01
 
