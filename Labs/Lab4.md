@@ -10,15 +10,13 @@
 * Many sources of support (can be good or bad)
 * Less security vulnerabilities
 
+* A side project should probably be open source because it allows the community to help with your project. You have little to gain financially by closing the source unless you are hiding a ground breaking invention, which is unlikely. 
+
 ## Proprietary
 * Single source for support and upgrades
 * Provider is liable for support
 * More reliable
 * Often costs money
 * Slower bug fixes and updates
-
-##
-
-* A side project should probably be open source because it allows the community to help with your project. You have little to gain financially by closing the source unless you are hiding a ground breaking invention, which is unlikely. 
 
 * If you're a company most of your software should probably be closed source. Otherwise your competitors could steal your ideas and implement them yourself. A company might want to make its software open source if it's trying to encourage a community around its software ecosystem (such as Google's Android) or to build goodwill amongst developers.
